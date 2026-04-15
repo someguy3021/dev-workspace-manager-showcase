@@ -86,8 +86,6 @@
 |--------------------|--------------|
 | ![Groups](screenshots/Screen_FileGroups.png) | ![Git](screenshots/Screen_GitTab.png) |
 
-*(Replace with actual screenshots of your app)*
-
 ---
 
 ## 🧪 Demo (Conceptual)
