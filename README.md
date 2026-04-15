@@ -1,8 +1,4 @@
-# dev-workspace-manager-showcase
-Desktop app for developers to export AI‑ready project context, manage file groups, track Git changes, and streamline communication with LLMs like ChatGPT, Claude, and DeepSeek.
-
-
-# 🧠 DevTools Workspace Manager Showcase
+# 🧠 DevTools Workspace Manager (Showcase with Electron-app Release)
 
 [![Electron](https://img.shields.io/badge/Electron-32.x-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Vue](https://img.shields.io/badge/Vue-3.x-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
