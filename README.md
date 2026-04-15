@@ -8,7 +8,7 @@
 
 > **A professional desktop environment for developers to organise projects, export structured context for AI assistants, manage business processes, and track Git changes — all in one place.**
 
-![Main Interface Preview](screenshots/main.png) <!-- replace -->
+![Main Interface Preview](screenshots/Screen_AIExport.png) <!-- replace -->
 
 ---
 
@@ -80,11 +80,11 @@
 
 | Project Manager | Export Options |
 |----------------|----------------|
-| ![Projects](screenshots/projects.png) | ![Export](screenshots/export.png) |
+| ![Projects](screenshots/Screen_Main_Projects.png) | ![Export](screenshots/Screen_AIExport.png) |
 
 | Processes & Groups | Git Reports |
 |--------------------|--------------|
-| ![Processes](screenshots/processes.png) | ![Git](screenshots/git.png) |
+| ![Groups](screenshots/Screen_FileGroups.png) | ![Git](screenshots/Screen_GitTab.png) |
 
 *(Replace with actual screenshots of your app)*
 
